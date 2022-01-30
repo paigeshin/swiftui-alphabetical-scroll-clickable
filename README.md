@@ -1,0 +1,1 @@
+# swiftui-alphabetical-scroll-clickable
